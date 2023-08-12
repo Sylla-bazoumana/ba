@@ -1,0 +1,292 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{background-color: rgb(39, 39, 47);}
+.ison{
+    
+    background-color: rgb(27, 27, 36);
+    color: beige;
+    display: flex;
+    gap: 700px;
+}
+.icon{
+    
+    width: 50px;
+    height: 50px;
+}
+.entete ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    color: white;
+}
+.entete ul li{
+    color: white;
+}
+.icon span{
+    width: 100%;
+    font-size: 50px;
+}
+.icon-m{
+    
+    background-color: rgb(75, 75, 100);
+    color: white;
+    padding: 100px;
+    height: 200px;
+}
+.icon-mm{
+    margin: 10px;
+    width: 100%;
+    
+}
+.icon-mm i{
+    border: solid 1px red;
+    width: 19px;
+    height: 19px;
+    border-radius: 50%;
+    background-color: rgb(38, 37, 47);
+    color: rgb(238, 241, 243);
+    gap: 20px;
+    margin-bottom: 10px;
+    margin-left:10 px;
+    margin-right: 10px;
+    margin-top: 1Opx;
+    
+    
+}
+.tab{
+    text-align: center;
+}
+.figu-ph{
+    
+    /**margin: 40px;**/
+    display: flex;
+    gap: 20px;
+    width: 100%;
+    
+    
+}
+.oub{
+    background-color: blue;
+}
+.div-ph{
+    
+    height: 400px;
+    width: 100%;
+}
+.im-ph{
+    height: 200px;
+    position: relative;
+    bottom: 170px;
+    
+}
+.im-ph img{
+    width: 100%;
+    position: relative;
+    top:;
+}
+.div-ph i{
+    margin: 10px;
+    font-size: 30px;
+    
+}
+.div-ph i,p{
+    margin: 20px;
+}
+.div-bt{
+    margin: 10px;
+    border-radius: 1rem;
+    border-color: red;
+    color: white;
+    background-color: rgb(27, 27, 34);
+}
+.div-bt2{
+    border-radius: 1rem;
+    border-color: red;
+    background-color: red;
+    color: white;
+}
+.sect-p{
+    text-align: center;
+    margin: 60px;
+    background-color: blue;
+}
+.sect-p h4{
+    color: red;
+    margin: 15px;
+
+}
+.sap-p{
+    color:white;
+    margin: 10px;
+    font-size: 30px;
+}
+.sect-p p{
+    color: white;
+}
+.sap-2{
+    color: red;
+    font-size: 5px;
+}
+.at{
+    /**border: solid 1px red;**/
+    margin: 60px;
+    
+    
+}
+.at-m{
+    /**border: solid 1px red;**/
+    display: flex;
+    text-align: center;
+    padding: 30px;
+    
+    
+
+}
+.at-m2{
+    /**border: solid 1px red;**/
+    display: flex;
+    text-align: center;
+    padding: 30px;
+    
+
+}
+.camera{background-color: rgb(68, 68, 89);
+    color: white;margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 1Opx;}
+.camera i{
+    border: solid 1px red;
+    border-radius: 50%;
+    color: red;
+    width: 20px;
+    height: 20px;
+    background-color: rgb(36, 36, 45);
+}
+.github i{/**
+    border: solid 1px red;
+    border-radius: 50%;
+    color: red;
+    width: 20px;
+    height: 20px;**/
+}
+.github{background-color: rgb(68, 68, 89);
+    color: white;margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 1Opx;}
+.github i{
+    border: solid 1px red;
+    border-radius: 50%;
+    color: red;
+    width: 20px;
+    height: 20px;
+    background-color: rgb(36, 36, 45);
+}
+.codepen{background-color: rgb(68, 68, 89);
+    color: white;margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 1Opx;}
+.codepen i{border: solid 1px red;
+    border-radius: 50%;
+    color: red;width: 20px;
+    height: 20px;background-color: rgb(36, 36, 45);}
+.clipboard{background-color: rgb(68, 68, 89);
+    color: white;margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 1Opx;}
+.clipboard i{border: solid 1px red;
+    border-radius: 50%;
+    color: red;width: 20px;
+    height: 20px;background-color: rgb(36, 36, 45);}
+.aple{background-color: rgb(68, 68, 89);
+    color: white;margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 1Opx;}
+.aple i{border: solid 1px red;
+    border-radius: 50%;
+    color: red;
+    width: 20px;
+    height: 20px;
+    background-color: rgb(36, 36, 45);
+}
+.vimeo{
+    background-color: rgb(68, 68, 89);
+    color: white;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 1Opx;
+}
+.vimeo i{border: solid 1px red;
+    border-radius: 50%;
+    background-color: red;width: 20px;
+    height: 20px;/**background-color: rgb(36, 36, 45);}**/
+}
+.pied{
+    display: flex;
+    background-color: rgb(68, 68, 86);
+    color: white;
+    margin: 20px;
+}
+.logo{
+    /**border: solid 1px red;margin-bottom: 30px;**/
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 3Opx;
+}
+.logo h3{
+    font-size: 30px;
+    padding: 25px;
+}
+.logo a{
+    padding: 10px;
+    color: white;
+
+}
+.person{
+    /**border: solid 1px black;**/
+    color: white;margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 3Opx;
+    
+}
+.person i{
+    display:block;
+    padding: 15px;
+    color: white;
+}
+.person i a{
+    color: white;
+}
+.phr{
+    /**border: solid 1px red;**/
+    padding: 10px;margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 3Opx;
+}
+.phr-i{
+    margin: 30px;
+    /**width: 20px;
+    height: 20px;**/
+    display: flex;
+}
+.phr-i i{
+    width: 20px;
+    height: 20px;
+    border: solid 1px black;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 1Opx;
+    color: white;
+    background-color: black;
+}
